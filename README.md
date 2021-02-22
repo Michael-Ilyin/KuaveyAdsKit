@@ -1,8 +1,8 @@
 # KuaveyAdsKit
-Huawei Ads Kit adaptation for Python / Kivy
+Huawei Ads Kit adaptation for Python / Kivy. Structurally inspired from [KivMob by Michael Stott](https://github.com/MichaelStott/KivMob)
 
 ## Warning!
-Currently only Rewarded Ads format supported! Other formats will be added over time.
+*Currently only Rewarded Ads format supported! Other formats will be added over time.*
 
 ## Installation
 
